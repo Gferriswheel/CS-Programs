@@ -1,0 +1,9 @@
+﻿  Assignment.cpp
+C:\Users\gafer\OneDrive\Desktop\Coding\CS 3350\Assignment 3\Assignment3\LinkedStack.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+C:\Users\gafer\OneDrive\Desktop\Coding\CS 3350\Assignment 3\Assignment3\StackInterface.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+C:\Users\gafer\OneDrive\Desktop\Coding\CS 3350\Assignment 3\Assignment3\Node.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+C:\Users\gafer\OneDrive\Desktop\Coding\CS 3350\Assignment 3\Assignment3\Node.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+C:\Users\gafer\OneDrive\Desktop\Coding\CS 3350\Assignment 3\Assignment3\Node.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+C:\Users\gafer\OneDrive\Desktop\Coding\CS 3350\Assignment 3\Assignment3\LinkedStack.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+C:\Users\gafer\OneDrive\Desktop\Coding\CS 3350\Assignment 3\Assignment3\LinkedStack.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  Assignment3.vcxproj -> C:\Users\gafer\OneDrive\Desktop\Coding\CS 3350\Assignment 3\Assignment3\x64\Debug\Assignment3.exe
